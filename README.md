@@ -12,8 +12,8 @@ kaggle python
    - Strings
    - Dictionaries
   - What confused me:-
-   - Booleans
-   - List Comprehension
+    - Booleans
+    - List Comprehension
  
 kaggle pandas
  - What I learned:-
