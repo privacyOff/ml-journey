@@ -1,35 +1,38 @@
-# ml-journey
+# ML Journey — Practical Machine Learning Projects
 
----
-## Day 1 ##
-kaggle python
- - What I learned:-
-   - Fuctions
-   - Booleans
-   - Conditionals
-   - Lists
-   - Loops
-   - Strings
-   - Dictionaries
-  - What confused me:-
-    - Booleans
-    - List Comprehension
- 
-kaggle pandas
- - What I learned:-
-   - Creating dataframes & series
-   - Summary Functions and Maps
-   - handle missing values
-   - renaming and combining columns
- - What confused me:-
-   - Grouping
-   - Sorting
+## About
+Tracking my progress learning machine learning through hands-on practice.
 
-Cleaned Dataset
- - What I learned:-
-   - Using Pandas to explore and clean datasets
-   - Using jupyter notebooks
- - What confused me:-
-   - Knowing which cleaning steps are necessary vs optional
----
+## Day 1 – Python Basics
+**What I learned:**
+- Functions
+- Loops
+- Strings
+**What confused me:**
+- Booleans
+- List comprehensions
 
+## Day 1 – Pandas
+**What I learned:**
+- Creating DataFrames
+- Summary functions
+- Handling missing values
+**What confused me:**
+- GroupBy
+
+## Cleaned Dataset
+**Dataset:** 
+- I am using Nasa's Kepler dataset which contains Kepler's exoplanet search results
+- link:- https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results/data
+**What I learned:**
+- Using Pandas to explore and clean data
+**What confused me:**
+- Choosing cleaning steps
+
+## Next Steps
+- Train ML models with scikit-learn
+- Evaluate model performance
+- Visualize results
+
+## How to Run
+Open `first.ipynb` in Jupyter or Colab.
