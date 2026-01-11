@@ -21,3 +21,8 @@ Model performance was evaluated using the following metrics derived from the con
 - Decision Tree displayed great performance with high recall and low false positives.
 - Logistic Regression underperformed compatred to other model paticularly in recall indicating it missed many positives.
 - This was likely because the data were non-linear.
+
+**Debugging**
+- analyzed model performance to find if it was overfitting
+- fixed overfitting by limiting max deptha and tuning hyperparameters
+- found out which features are important to random forest in making prediction and if it is medically correct.
